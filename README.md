@@ -9,8 +9,9 @@
   <li>Há seis meses atrás eu não sabia nem o que era lógica de programação e recentemente consegui meu badger de JavaScript no LinkedIn Assessments :blue_heart:.</li>
   <li>Busco conseguir meu estágio como fullStack e quem sabe contribuir com as minhas habilidades pra esse mundão véi.</li>
   <li>Posso te ajudar com HTML e CSS, e se precisar de um quebra galho pra fazer script, eu manjo de Node.js e React.js.</li>
+  
 </ul>
-
+  ![Gustaf Toledo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustaf-Toledo&show_icons=true)
 <h3>O que eu sei :grey_exclamation:</h3>
 <ul>
   <li>De principais: HTML, CSS, JavaScript e Python.</li>
