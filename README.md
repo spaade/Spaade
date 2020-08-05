@@ -11,7 +11,7 @@
   <li>Posso te ajudar com HTML e CSS, e se precisar de um quebra galho pra fazer script, eu manjo de Node.js e React.js.</li>
   
 </ul>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaf-Toledo)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <h3>O que eu sei :grey_exclamation:</h3>
 <ul>
   <li>De principais: HTML, CSS, JavaScript e Python.</li>
@@ -35,3 +35,4 @@
 <!--
 **Gustaf-Toledo/Gustaf-Toledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaf-Toledo)](https://github.com/anuraghazra/github-readme-stats)
