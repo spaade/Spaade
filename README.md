@@ -11,7 +11,7 @@
   <li>Posso te ajudar com HTML e CSS, e se precisar de um quebra galho pra fazer script, eu manjo de Node.js e React.js.</li>
   
 </ul>
-  ![Gustaf Toledo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustaf-Toledo&show_icons=true)
+  ![gustaf-toledo GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustaf-toledo&show_icons=true)
 <h3>O que eu sei :grey_exclamation:</h3>
 <ul>
   <li>De principais: HTML, CSS, JavaScript e Python.</li>
