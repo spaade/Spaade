@@ -8,12 +8,12 @@
 
 ## Liked my profile? See more! 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Gustaf Toledo | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Gustaf Toledo | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gustaf Toledo | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <details>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustaf-toledo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="Gustaf's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gustaf-Toledo&show_icons=true&hide_border=true" />
 </details>
 
 [twitter]: https://twitter.com/GusttaToledo
