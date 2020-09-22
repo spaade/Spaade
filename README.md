@@ -17,7 +17,7 @@
 
 <div> 
 
-### Technologies and Tools
+<h2> Technologies and Tools </h2>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -35,7 +35,7 @@
 
 </div>
 
-### Liked my profile? See more! 
+<h2> Liked my profile? See more! </h2>
 
 [<img align="left" alt="Gustaf Toledo | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Gustaf Toledo | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
