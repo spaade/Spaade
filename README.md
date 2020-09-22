@@ -13,7 +13,7 @@
 [<img align="left" alt="Gustaf Toledo | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <details>
-  <img align="left" alt="Gustaf's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gustaf-Toledo&show_icons=true&hide_border=true" />
+  <img align="left" alt="Gustaf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf-Toledo&layout=compact" />
 </details>
 
 [twitter]: https://twitter.com/GusttaToledo
