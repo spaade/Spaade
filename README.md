@@ -12,9 +12,10 @@
 [<img align="left" alt="Gustaf Toledo | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gustaf Toledo | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<details>
-  <img align="left" alt="Gustaf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf-Toledo&layout=compact" />
-</details>
+<img align="left" alt="Gustaf's Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf-Toledo&layout=compact" />
+
+<img align="right" alt="Gustaf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gustaf-Toledo" />
+
 
 [twitter]: https://twitter.com/GusttaToledo
 [linkedin]: https://www.linkedin.com/in/gustaf-toledo/
