@@ -1,9 +1,5 @@
 ## Hello! I'm Gustaf - aka Gu!
 
-<div> 
-  <img align="center" alt="Gustaf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gustaf-Toledo" />
-</div>
-
 ### I'm a Student, Developer and Catlover!
 <ul>
 <li>:boom: I'm currently working at Grupo Memorial as a Software Engineer Intern</li>
@@ -11,6 +7,10 @@
 <li>:books: I'm studying Angular and Nest.js for my job and going deeper at JavaScript and TypeScript</li>
 <li>:white_check_mark: My goals for 2020 is to go deeper in my knowledge of programming and be effective as a Software Engineer at my job</li>
 </ul>
+
+<div> 
+  <img align="left" alt="Gustaf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gustaf-Toledo" />
+</div>
 
 <br />
 
