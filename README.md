@@ -16,11 +16,9 @@
 
 ### Liked my profile? See more! 
 
-<div>
-[<img align="left" alt="Gustaf Toledo | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Gustaf Toledo | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Gustaf Toledo | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-</div>
+[<img align="center" alt="Gustaf Toledo | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="Gustaf Toledo | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Gustaf Toledo | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <img align="center" alt="Gustaf's Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf-Toledo&layout=compact" />
 
