@@ -1,5 +1,9 @@
 ## Hello! I'm Gustaf - aka Gu!
 
+<div> 
+  <img align="center" alt="Gustaf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gustaf-Toledo" />
+</div>
+
 ### I'm a Student, Developer and Catlover!
 <ul>
 <li>:boom: I'm currently working at Grupo Memorial as a Software Engineer Intern</li>
@@ -12,15 +16,14 @@
 
 ### Liked my profile? See more! 
 
+<div>
 [<img align="left" alt="Gustaf Toledo | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Gustaf Toledo | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gustaf Toledo | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+</div>
 
-<br />
+<img align="center" alt="Gustaf's Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf-Toledo&layout=compact" />
 
-<img align="left" width="50px" alt="Gustaf's Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf-Toledo&layout=compact" />
-
-<img align="right" width="50px" alt="Gustaf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gustaf-Toledo" />
 
 
 [twitter]: https://twitter.com/GusttaToledo
