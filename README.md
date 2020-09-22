@@ -2,10 +2,10 @@
 
 ### I'm a Student, Developer and Catlover!
 <ul>
-<li>:boom: I'm currently working at Grupo Memorial as a Software Engineer Intern</li>
+<li>:boom: I'm currently working at Grupo Memorial as Software Engineer Intern</li>
 <li>:mortar_board: I'm graduating System Analysis and Development at Faculdade de Tecnologia de São Paulo known as FATEC</li>
 <li>:books: I'm studying Angular and Nest.js for my job and going deeper at JavaScript and TypeScript</li>
-<li>:white_check_mark: My goals for 2020 is to go deeper in my knowledge of programming and be effective as a Software Engineer at my job</li>
+<li>:white_check_mark: My goals for 2020 is to go deeper in my knowledge of programming and be effective as Software Engineer at my job</li>
 </ul>
 
 <div>
@@ -14,7 +14,8 @@
 
 </div>
 
-<br />
+
+<div> 
 
 ### Technologies and Tools
 
@@ -32,9 +33,7 @@
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="NoSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nosql/nosql.png" />
-
-<br />
+</div>
 
 ### Liked my profile? See more! 
 
