@@ -1,10 +1,14 @@
 ## Hello! I'm Gustaf - aka Gu!
 
 ### I'm a Student, Developer and Catlover!
-<p>-:boom: I'm currently working at Grupo Memorial as a Software Engineer Intern</p>
-<p>-:mortar_board: I'm graduating System Analysis and Development at Faculdade de Tecnologia de São Paulo known as FATEC</p>
-<p>-:books: I'm studying Angular and Nest.js for my job and going deeper at JavaScript and TypeScript</p>
-<p>-:white_check_mark: My goals for 2020 is to go deeper in my knowledge of programming and be effective as a Software Engineer at my job</p>
+<ul>
+<li>:boom: I'm currently working at Grupo Memorial as a Software Engineer Intern</li>
+<li>:mortar_board: I'm graduating System Analysis and Development at Faculdade de Tecnologia de São Paulo known as FATEC</li>
+<li>:books: I'm studying Angular and Nest.js for my job and going deeper at JavaScript and TypeScript</li>
+<li>:white_check_mark: My goals for 2020 is to go deeper in my knowledge of programming and be effective as a Software Engineer at my job</li>
+</ul>
+
+<br />
 
 ### Liked my profile? See more! 
 
@@ -14,9 +18,9 @@
 
 <br />
 
-<img align="left" alt="Gustaf's Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf-Toledo&layout=compact" />
+<img align="left" width="50px" alt="Gustaf's Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf-Toledo&layout=compact" />
 
-<img align="right" alt="Gustaf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gustaf-Toledo" />
+<img align="right" width="50px" alt="Gustaf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gustaf-Toledo" />
 
 
 [twitter]: https://twitter.com/GusttaToledo
