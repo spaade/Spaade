@@ -34,7 +34,8 @@
 
 </div>
 
-<details>
+<br />
+<br />
 
 <h3> Liked my profile? See more! </h3>
 
@@ -42,7 +43,7 @@
 [<img align="left" alt="Gustaf Toledo | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gustaf Toledo | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-</details>
+
 
 [twitter]: https://twitter.com/GusttaToledo
 [linkedin]: https://www.linkedin.com/in/gustaf-toledo/
