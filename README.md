@@ -1,32 +1,24 @@
-<img width="auto" height="auto" src="https://i.imgur.com/FLTVhYz.png" alt="banner">
+# Hello! I'm Gustaf - aka Gu!
 
-<h2>Young enthusiast who has grown up in the IoT era!!</h2>
+## I'm a Student, Developer and Catlover!
+-:boom: I'm currently working at Grupo Memorial as a Software Engineer Intern
+-:mortar_board: I'm graduating System Analysis and Development at Faculdade de Tecnologia de São Paulo known as FATEC
+-:books: I'm studying Angular and Nest.js for my job and going deeper at JavaScript and TypeScript
+-:white_check_mark: My goals for 2020 is to go deeper in my knowledge of programming and be effective as a Software Engineer at my job
 
-<h3>About me :page_facing_up::pencil2:</h3>
+## Liked my profile? See more! 
 
-<ul>
-  <li>Studying System Develop and Analytics at FATEC and doing A LOT of courses like JavaScript and Python.</li>
-  <li>Six months ago I didn't know nothing about programming logic and recently I got my JavaScript badger at LinkedIn Assessments :blue_heart:.</li>
-  <li>Hoping to get a job as a Fullstack Developer and you know perhaps help this world to get better.</li>
-  <li>I can help you with JavaScript, Node.js and React.</li>
-  
-</ul>
- 
-<h3>What I know :grey_exclamation:</h3>
-<ul>
-  <li>Mainly: HTML, CSS, JavaScript e Python.</li>
-  <li>Other stuff: Node.js, React.js, Bootstrap, MongoDB, SQLite, etc.</li>
-</ul>
+[<img align="left" alt="codeSTACKr | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<h3>Liked my profile and wanna get in touch? :eyes:</h3>
+<details>
 
-:iphone: +55 (11) 9 8688-2668
-<br>
-:e-mail: gustta00@Icloud.com
-<br>
-:blue_book: https://www.linkedin.com/in/gustaf-toledo/
+</details>
+
+[twitter]: https://twitter.com/GusttaToledo
+[linkedin]: https://www.linkedin.com/in/gustaf-toledo/
+[instagram]: https://www.instagram.com/
 
 <!--
 **Gustaf-Toledo/Gustaf-Toledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
