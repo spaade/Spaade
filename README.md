@@ -1,12 +1,12 @@
-# Hello! I'm Gustaf - aka Gu!
+## Hello! I'm Gustaf - aka Gu!
 
-## I'm a Student, Developer and Catlover!
+### I'm a Student, Developer and Catlover!
 <p>-:boom: I'm currently working at Grupo Memorial as a Software Engineer Intern</p>
 <p>-:mortar_board: I'm graduating System Analysis and Development at Faculdade de Tecnologia de São Paulo known as FATEC</p>
 <p>-:books: I'm studying Angular and Nest.js for my job and going deeper at JavaScript and TypeScript</p>
 <p>-:white_check_mark: My goals for 2020 is to go deeper in my knowledge of programming and be effective as a Software Engineer at my job</p>
 
-## Liked my profile? See more! 
+### Liked my profile? See more! 
 
 [<img align="left" alt="Gustaf Toledo | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Gustaf Toledo | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
