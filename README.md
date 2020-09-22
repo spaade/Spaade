@@ -8,21 +8,23 @@
 <li>:white_check_mark: My goals for 2020 is to go deeper in my knowledge of programming and be effective as a Software Engineer at my job</li>
 </ul>
 
-<div> 
-  <img align="left" alt="Gustaf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gustaf-Toledo" />
+<div>
+
+  <img align="left" alt="Gustaf's Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf-Toledo&layout=compact" />
+
 </div>
 
 <br />
 
+### Technologies that I'm used too
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+
 ### Liked my profile? See more! 
 
-[<img align="center" alt="Gustaf Toledo | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="Gustaf Toledo | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Gustaf Toledo | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<img align="center" alt="Gustaf's Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf-Toledo&layout=compact" />
-
-
+[<img align="left" alt="Gustaf Toledo | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Gustaf Toledo | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gustaf Toledo | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/GusttaToledo
 [linkedin]: https://www.linkedin.com/in/gustaf-toledo/
