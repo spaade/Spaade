@@ -35,7 +35,6 @@
 </div>
 
 <br />
-<br />
 
 <h3> Liked my profile? See more! </h3>
 
