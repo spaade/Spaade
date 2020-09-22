@@ -1,10 +1,10 @@
 # Hello! I'm Gustaf - aka Gu!
 
 ## I'm a Student, Developer and Catlover!
--:boom: I'm currently working at Grupo Memorial as a Software Engineer Intern
--:mortar_board: I'm graduating System Analysis and Development at Faculdade de Tecnologia de São Paulo known as FATEC
--:books: I'm studying Angular and Nest.js for my job and going deeper at JavaScript and TypeScript
--:white_check_mark: My goals for 2020 is to go deeper in my knowledge of programming and be effective as a Software Engineer at my job
+<p>-:boom: I'm currently working at Grupo Memorial as a Software Engineer Intern</p>
+<p>-:mortar_board: I'm graduating System Analysis and Development at Faculdade de Tecnologia de São Paulo known as FATEC</p>
+<p>-:books: I'm studying Angular and Nest.js for my job and going deeper at JavaScript and TypeScript</p>
+<p>-:white_check_mark: My goals for 2020 is to go deeper in my knowledge of programming and be effective as a Software Engineer at my job</p>
 
 ## Liked my profile? See more! 
 
