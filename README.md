@@ -2,10 +2,10 @@
 
 ### I'm a Student, Developer and Catlover!
 <ul>
-<li>:boom: I'm currently working at Grupo Memorial as Software Engineer Intern</li>
+<li>:boom: I'm currently working at Grupo Memorial as Programming Analyst Intern</li>
 <li>:mortar_board: I'm graduating System Analysis and Development at Faculdade de Tecnologia de São Paulo known as FATEC</li>
 <li>:books: I'm studying Angular and Nest.js for my job and going deeper at JavaScript and TypeScript</li>
-<li>:white_check_mark: My goals for 2020 is to go deeper in my knowledge of programming and be effective as Software Engineer at my job</li>
+<li>:white_check_mark: My goals for 2020 is to go deeper in my knowledge of programming and be effective as Programming Analyst at my job</li>
 </ul>
 
 <div>
