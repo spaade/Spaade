@@ -1,4 +1,4 @@
-## Hello! I'm Gustaf - aka Gu!
+## Hello! I'm kvitravn - aka Gu!
 
 ### I'm a Student, Developer and Catlover!
 <ul>
