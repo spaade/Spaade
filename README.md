@@ -1,6 +1,5 @@
-## Hello! I'm kvitravn - aka Gu!
-
 ### Node developer and catlover...
+
 
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)
 
