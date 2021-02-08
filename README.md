@@ -1,4 +1,4 @@
-## Hey! [Kvitravn](https://portfolio-kvitravn.herokuapp.com/) a developer and catlover!
+## Hey! [Kvitravn](https://portfolio-kvitravn.herokuapp.com/) here, a developer and catlover!
 
 I am a second year System Analysis bachelor student at [Faculdade de Tecnologia de São Paulo](http://www.fatecsp.br/), Brazil. Apart from that I worked as a Angular and Node developer at Grupo Memorial. Developed an internA framework, [Trello](https://trello.com/home) integration, [Iugu](shorturl.at/artM1) integration and a lot more.
 
@@ -11,14 +11,11 @@ I am a second year System Analysis bachelor student at [Faculdade de Tecnologia 
 - any challenges ahead!
 
 ### My Stack!
-- Back-end:
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=F1E05A&logo=typescript&logoColor=FFFFFF)
-![Node](https://img.shields.io/static/v1?label=&message=Node&color=F1E05A&logo=node.js&logoColor=FFFFFF)
-
-- Front-end:
-![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=F1E05A&logo=angular&logoColor=FFFFFF)
-![React](https://img.shields.io/static/v1?label=&message=React&color=F1E05A&logo=react&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC&logo=typescript&logoColor=FFFFFF)
+![Node](https://img.shields.io/static/v1?label=&message=Node&color=68A063&logo=node.js&logoColor=FFFFFF)
+![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD1B16&logo=angular&logoColor=FFFFFF)
+![React](https://img.shields.io/static/v1?label=&message=React&color=61DBFB&logo=react&logoColor=FFFFFF)
 
 ### Follow Me!
 
