@@ -17,9 +17,19 @@ I am a second year System Analysis bachelor student at [Faculdade de Tecnologia 
 ![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD1B16&logo=angular&logoColor=FFFFFF)
 ![React](https://img.shields.io/static/v1?label=&message=React&color=61DBFB&logo=react&logoColor=FFFFFF)
 
-### Follow Me!
+### My Github Stats!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kvitravn&theme=dark&show_icons=true" alt="kvitravnStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvitravn&layout=compact&theme=dark" alt="top-langs" />
+</p>
+<p align="center">  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustaf%20Toledo-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gustaf-toledo/)](https://www.linkedin.com/in/gustaf-toledo/) [![Twitter Badge](http://img.shields.io/badge/-@GusttaToledo-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/GusttaToledo)](https://twitter.com/GusttaToledo)
+</p>
+
+
 
 <!--
 **Gustaf-Toledo/Gustaf-Toledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
