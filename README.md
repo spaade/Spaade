@@ -1,4 +1,4 @@
-## Hey! [Kvitravn](https://portfolio-kvitravn.herokuapp.com/) here, a developer and catlover!
+## Hey! [Kvitravn](https://kvitravn.vercel.app/) here, a developer and catlover!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustaf%20Toledo-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gustaf-toledo/)](https://www.linkedin.com/in/gustaf-toledo/) [![Twitter Badge](http://img.shields.io/badge/-@GusttaToledo-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/GusttaToledo)](https://twitter.com/GusttaToledo)
 
