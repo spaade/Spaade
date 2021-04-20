@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustaf%20Toledo-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gustaf-toledo/)](https://www.linkedin.com/in/gustaf-toledo/) [![Twitter Badge](http://img.shields.io/badge/-@GusttaToledo-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/GusttaToledo)](https://twitter.com/GusttaToledo)
 
-I am a second year System Analysis bachelor student at [Faculdade de Tecnologia de São Paulo](http://www.fatecsp.br/), Brazil. Apart from that I worked as a Angular and Node developer at Grupo Memorial. Developed an intern framework using Angular, [Trello](https://trello.com/home) integration using Automate.io, [Iugu](shorturl.at/artM1) integration using Node and Nest, and a lot more.
+I am a second year System Analysis associates student at [Faculdade de Tecnologia de São Paulo](http://www.fatecsp.br/), Brazil. Apart from that I worked as a Angular and Node developer at Grupo Memorial. Developed an intern framework using Angular, [Trello](https://trello.com/home) integration using Automate.io, [Iugu](shorturl.at/artM1) integration using Node and Nest, and a lot more.
 
 - Currently growing my skillset in Node and JavaScript/TypeScript libraries.
 - Studying Java.
