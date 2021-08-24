@@ -1,6 +1,6 @@
 ## Hey! Spade here, a developer and catlover!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gustaf%20Toledo-blue?style=social&logo=Linkedin&logoColor=blue&link=www.linkedin.com/in/gustaavo-toledo)](https://www.linkedin.com/in/gustaavo-toledo/) [![Twitter Badge](http://img.shields.io/badge/-@GusttaToledo-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/GustaavoToledo)](https://twitter.com/GustaavoToledo)
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Toledo-blue?style=social&logo=Linkedin&logoColor=blue&link=www.linkedin.com/in/gustaavo-toledo)](https://www.linkedin.com/in/gustaavo-toledo/) [![Twitter Badge](http://img.shields.io/badge/-@GustaavoToledo-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/GustaavoToledo)](https://twitter.com/GustaavoToledo)
 
 I am a second year System Analysis associates student at [Faculdade de Tecnologia de São Paulo](http://www.fatecsp.br/), Brazil. Apart from that I worked as a Angular and Node developer at Grupo Memorial. Developed an intern framework using Angular, [Trello](https://trello.com/home) integration using Automate.io, [Iugu](shorturl.at/artM1) integration using Node and Nest, and a lot more. Then worked as an Angular/Node developer at Blogudev using AWS as cloud platform where I developed some CRUDS and inplement API tests and monitoring at postman. Nowadays working at IBM as an Application Developer.
 
