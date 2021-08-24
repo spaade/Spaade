@@ -2,7 +2,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Toledo-blue?style=social&logo=Linkedin&logoColor=blue&link=www.linkedin.com/in/gustaavo-toledo)](https://www.linkedin.com/in/gustaavo-toledo/) [![Twitter Badge](http://img.shields.io/badge/-@GustaavoToledo-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/GustaavoToledo)](https://twitter.com/GustaavoToledo)
 
-I am a second year System Analysis associates student at [Faculdade de Tecnologia de São Paulo](http://www.fatecsp.br/), Brazil. Apart from that I worked as a Angular and Node developer at Grupo Memorial. Developed an intern framework using Angular, [Trello](https://trello.com/home) integration using Automate.io, [Iugu](shorturl.at/artM1) integration using Node and Nest, and a lot more. Then worked as an Angular/Node developer at Blogudev using AWS as cloud platform where I developed some CRUDS and inplement API tests and monitoring at postman. Nowadays working at IBM as an Application Developer.
+Just a person who solve problems.
+
+I started my carrer as an Application Developer working as a volunteer at my college by rebuilding their website using React and leading two other colleagues. Then I got my first opportunity to work as a professional.
+
+At Grupo Memorial I was hired with the purpose of bringing technology to their branch. Made part of a project that was basically a new intern ERP developed with Angular and Node. Helped implemention of Scrum basis by building an integration with Trello to manage tickets and projects. Developed an intern framework using Angular. Also developed financial webservices integrating Iugu with our intern ERP
+
+Then joined Blogudev where I was part of a project called lodIO that was a professional streaming platform for online events. Developed CRUD's and microservices with AWS. Also I developed API tests and API monitoring at Postman.
+
+Most recently I got hired by IBM to work with their team at Santander.
 
 - Currently growing my skillset in Node and JavaScript/TypeScript libraries.
 - Studying Java.
