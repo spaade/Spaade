@@ -31,10 +31,10 @@ Most recently I got hired by IBM to work with their team at Santander.
 
 ### My Github Stats!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kvitravn&theme=dark&show_icons=true" alt="kvitravnStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Spaade&theme=dark&show_icons=true" alt="SpaadeStats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvitravn&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spaade&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 <!--
