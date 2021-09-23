@@ -1,6 +1,6 @@
-## Hey! Spade here, a developer and catlover!
+## Hey! Gustavo here, a developer and catlover!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Toledo-blue?style=social&logo=Linkedin&logoColor=blue&link=www.linkedin.com/in/gustaavo-toledo)](https://www.linkedin.com/in/gustaavo-toledo/) [![Twitter Badge](http://img.shields.io/badge/-@GustaavoToledo-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/GustaavoToledo)](https://twitter.com/GustaavoToledo)
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Toledo-blue?style=social&logo=Linkedin&logoColor=blue&link=www.linkedin.com/in/gustaavo-toledo)](https://www.linkedin.com/in/gustaavo-toledo/) [![Twitter Badge](http://img.shields.io/badge/-@GustaavoToledo-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/gustaaftoledo)](https://twitter.com/gustaaftoledo)
 
 Just a person who solve problems.
 
