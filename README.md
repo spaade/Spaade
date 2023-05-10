@@ -1,24 +1,18 @@
-## Hey! Gustavo here, a developer and catlover!
+## About me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Toledo-blue?style=social&logo=Linkedin&logoColor=blue&link=www.linkedin.com/in/gustaavo-toledo)](https://www.linkedin.com/in/gustaavo-toledo/) [![Twitter Badge](http://img.shields.io/badge/-@gustaaftoledo-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/gustaaftoledo)](https://twitter.com/gustaaftoledo)
 
-Just a person who solve problems.
+I am a skilled Java Developer with a track record of success that started during my college days when I initiated a personal project to rebuild my college's main website. This project led me to secure an internship at Grupo Memorial where I gained experience in Angular, Node, Java, JPA, JSF, and Primefaces, building APIs, integrations, and enhancements for the company's ERP system. I also played a key role in implementing the Scrum framework, integrating forms with Trello for card creation.
 
-I started my carrer as an Application Developer working as a volunteer at my college by rebuilding their website using React and leading two other colleagues. Then I got my first opportunity to work as a professional.
+As a Junior Developer at Blogudev, I furthered my expertise in Angular and Node, and gained my first exposure to cloud development using AWS, utilizing tools such as Amplify, API Gateway, and more. I also performed unit testing on API requests to ensure their functionality and reliability, and implemented i18n for multi-language support on the frontend.
 
-At Grupo Memorial I was hired with the purpose of bringing technology to their branch. Made part of a project that was basically a new intern ERP developed with Angular and Node. Helped implemention of Scrum basis by building an integration with Trello to manage tickets and projects. Developed an intern framework using Angular. Also developed financial webservices integrating Iugu with our intern ERP
+At IBM, I was hired as a Java Developer but also worked with Angular on various scopes and tasks. I worked on projects for Santander, where I was responsible for the No Contact project, as well as integrations with marketing platforms and improvements to Santander's messaging and marketing operations systems. I also built microservices with Spring Boot, integrated with SSO authentication services, implemented route permissions, and more.
 
-Then joined Blogudev where I was part of a project called lodIO that was a professional streaming platform for online events. Developed CRUD's and microservices with AWS. Also I developed API tests and API monitoring at Postman.
-
-Most recently I got hired by IBM to work with their team at Santander.
-
-- Currently growing my skillset in Node and JavaScript/TypeScript libraries.
-- Studying Java.
+Recently, I joined Dell to work on an internal project, where my focus is entirely on Java with Spring Boot. I am involved in the construction and documentation of microservices, leveraging my expertise in Java development to contribute to the project's success.
 
 ### My Interests!
 - any collobration work,
-- nodejs projects(development or research),
-- research internships and
+- java spring boot projects(development or research),
 - any challenges ahead!
 
 ### My Stack!
@@ -38,4 +32,4 @@ Most recently I got hired by IBM to work with their team at Santander.
 </p>
 
 <!--
-**Gustaf-Toledo/Gustaf-Toledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Spaade/Spaade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
