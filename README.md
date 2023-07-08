@@ -15,14 +15,6 @@ Recently, I joined Dell to work on an internal project, where my focus is entire
 - java spring boot projects(development or research),
 - any challenges ahead!
 
-### My Stack!
-![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC&logo=typescript&logoColor=FFFFFF)
-![Node](https://img.shields.io/static/v1?label=&message=Node&color=68A063&logo=node.js&logoColor=FFFFFF)
-![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD1B16&logo=angular&logoColor=FFFFFF)
-![React](https://img.shields.io/static/v1?label=&message=React&color=61DBFB&logo=react&logoColor=FFFFFF)
-![Java](https://img.shields.io/static/v1?label=&message=Java&color=EC2025&logo=java&logoColor=FFFFFF)
-
 ### My Github Stats!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Spaade&theme=dark&show_icons=true" alt="SpaadeStats" />  
