@@ -15,13 +15,5 @@ Recently, I joined Dell to work on an internal project, where my focus is entire
 - java spring boot projects(development or research),
 - any challenges ahead!
 
-### My Github Stats!
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spaade&theme=dark&show_icons=true" alt="SpaadeStats" />  
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spaade&layout=compact&theme=dark" alt="top-langs" />
-</p>
-
 <!--
 **Spaade/Spaade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
