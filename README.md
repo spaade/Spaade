@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/gustaavo-toledo/)
 [![GitHub followers](https://img.shields.io/github/followers/spaade?label=Follow&style=social)](https://github.com/spaade)
 [![GitHub stars](https://img.shields.io/github/stars/spaade?style=social)](https://github.com/spaade)
-[![Twitter Follow](https://img.shields.io/twitter/follow/spaade?style=social)](https://twitter.com/spaade)
+[![Twitter Follow](https://img.shields.io/twitter/follow/gustaaftoledo?style=social)](https://twitter.com/gustaaftoledo)
 
 ---
 
