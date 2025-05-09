@@ -22,9 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I started my developer career in 2020 as an intern at **Grupo Memorial** where I worked with **Java, JSF, Angular, and Nest JS**. Later, I joined **Blogudev**, gaining experience in **NodeJS, Angular**, and my first exposure to **AWS development**.
-Following Blogudev, I was hired by **IBM** to work as a Java developer at **Santander**, focusing on **Java Spring Boot** projects and also contributing to **Angular** projects.
-Currently, I am part of **Dell Technologies**, working on their developer portal with a focus on **Java Spring Boot**.
+I'm a backend developer since 2020, specializing in microservices, systems integration, messaging, and cloud-native solutions. I have hands-on experience in large-scale enterprise applications, with strong expertise in Java, Spring Boot, relational and non-relational databases, messaging systems, and distributed search.
 
 ---
 
