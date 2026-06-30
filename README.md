@@ -106,8 +106,8 @@ I'm a backend developer working on **large-scale enterprise systems** — design
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=spaade&show_icons=true&count_private=true&hide_border=true&bg_color=0D0B1A&title_color=5EF6FF&icon_color=FF2E97&text_color=F2D74E&ring_color=9D4EDD&cache_seconds=21600&v=2" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaade&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=5EF6FF&text_color=F2D74E&icon_color=FF2E97&langs_count=8&cache_seconds=21600&v=2" alt="top langs" />
+<img height="180em" src="https://github-readme-stats-ten-psi-25.vercel.app/api?username=spaade&show_icons=true&count_private=true&hide_border=true&bg_color=0D0B1A&title_color=5EF6FF&icon_color=FF2E97&text_color=F2D74E&ring_color=9D4EDD&cache_seconds=21600&v=2" alt="stats" />
+<img height="180em" src="https://github-readme-stats-ten-psi-25.vercel.app/api/top-langs/?username=spaade&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=5EF6FF&text_color=F2D74E&icon_color=FF2E97&langs_count=8&cache_seconds=21600&v=2" alt="top langs" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=spaade&hide_border=true&background=0D0B1A&ring=FF2E97&fire=F2D74E&currStreakLabel=5EF6FF&sideLabels=5EF6FF&dates=9D4EDD&currStreakNum=F2D74E&sideNums=F2D74E&stroke=9D4EDD" alt="streak" />
 
