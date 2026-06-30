@@ -27,7 +27,7 @@
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/purple-line.gif" width="100%" alt="divider" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About Me
+## 👨‍💻 About Me
 
 ```python
 class GustavoToledo:
@@ -43,7 +43,7 @@ I'm a backend developer working on **large-scale enterprise systems** — design
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/purple-line.gif" width="100%" alt="divider" />
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp; Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -71,7 +71,7 @@ I'm a backend developer working on **large-scale enterprise systems** — design
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/purple-line.gif" width="100%" alt="divider" />
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp; Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -102,7 +102,7 @@ I'm a backend developer working on **large-scale enterprise systems** — design
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/purple-line.gif" width="100%" alt="divider" />
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> &nbsp; GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -117,7 +117,7 @@ I'm a backend developer working on **large-scale enterprise systems** — design
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/purple-line.gif" width="100%" alt="divider" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -130,7 +130,7 @@ I'm a backend developer working on **large-scale enterprise systems** — design
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/purple-line.gif" width="100%" alt="divider" />
 
-## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="30"> &nbsp; Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -146,7 +146,5 @@ Open to collaboration, Java / Spring Boot work, and exciting new challenges.
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:FF2E97,55:9D4EDD,100:0D0B1A" width="100%" alt="footer" />
-
-<i>"Wake up, Samurai. We have code to ship."</i> ⚡
 
 </div>
